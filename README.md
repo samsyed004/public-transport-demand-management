@@ -1,4 +1,4 @@
-# Public Transport Demand Management Using Computer Vision and NetLogo
+# Vision-Based Public Transport Flow Analysis & Multi-Agent Simulation
 
 ## Overview
 This semester project combines computer vision and agent-based modeling to explore passenger demand estimation and bus allocation in public transport systems.
